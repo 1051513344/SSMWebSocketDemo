@@ -1,0 +1,15 @@
+com\ssm\model\Constants.class
+com\ssm\mapper\BookMapper.class
+com\ssm\aop\AopServerAspectj.class
+com\ssm\controller\MessageController.class
+com\ssm\model\Book.class
+com\ssm\config\HandshakeInterceptor.class
+com\ssm\service\UserService.class
+com\ssm\controller\LoginController.class
+com\ssm\model\User.class
+com\ssm\mapper\UserMapper.class
+com\ssm\config\WebSocketConfig.class
+com\ssm\config\TextMessageHandler.class
+com\ssm\service\impl\UserServiceImpl.class
+com\ssm\service\impl\BookServieImpl.class
+com\ssm\service\BookServie.class
